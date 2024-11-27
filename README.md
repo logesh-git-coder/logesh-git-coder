@@ -6,8 +6,8 @@ Hi there! I'm a 3rd-year student passionate about Artificial Intelligence (AI), 
 
 <h3 align="left">🌟 Key Interests</h3>
 
-AI & ML: Developing smart systems and predictive models.
-Full-Stack Development: Designing and deploying complete, scalable web applications.
+AI & ML: Developing smart systems and predictive models.<br>
+Full-Stack Development: Designing and deploying complete, scalable web applications.<br>
 Data Science: Analyzing data to uncover actionable insights.
 
 
